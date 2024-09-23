@@ -12,6 +12,10 @@ Currently working at [ACLAI Lab](https://www.unife.it/en) at the University of F
 🎮 **Indie Game Developer**  
 When I’m not delving into the complexities of machine learning, I’m creating games! I enjoy building 2D games using **Godot** and crafting immersive 3D worlds with **Unity**. Check out some of my projects on [itch.io](https://ferdiu.itch.io/)!
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferdiu&theme=github_dark" alt="ferdiu's GitHub Stats"/>
+</div>
+
 ---
 
 ## 🔭 **Projects**
@@ -74,6 +78,14 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### **Mobile Development**
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ### **Tools & IDEs**
 ![KDevelop](https://img.shields.io/badge/KDevelop-5E81AC?style=for-the-badge&logo=kde&logoColor=white)
@@ -93,3 +105,6 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferdiu.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-manzella-4586601a4/)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4944-2163)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-%23EA4335?style=for-the-badge&logo=google-scholar&logoColor=white)
+![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-%23A8C6E8?style=for-the-badge&logo=researchgate&logoColor=white)
+
