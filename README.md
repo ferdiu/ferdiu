@@ -14,9 +14,11 @@ When I’m not delving into the complexities of machine learning, I’m creating
 
 ---
 
-## 🔭 **Current Projects**
-- **Symbolic Learning in Julia**: I'm passionate about using **Julia** for symbolic AI, as seen in my contributions to projects like `Sole.jl`.
-- **COVID-19 Research**: I’ve contributed to publications focusing on AI for medical diagnosis, such as using breath and cough recordings to identify COVID-19.
+## 🔭 **Projects**
+
+- **Symbolic Learning in Julia**: I'm passionate about using **Julia** for symbolic AI, as seen in my contributions to projects like [`Sole.jl`](https://github.com/aclai-lab/Sole.jl) and [SimpleCaching.jl](https://github.com/ferdiu/SimpleCaching.jl).
+- **AI for Health**: My research is focused on using machine learning for health-related applications, including the analysis of audio recordings (such as breath and cough sounds) to detect COVID-19. This project has led to publications in *Artificial Intelligence in Medicine*.
+- **Towards an Objective Theory of Subjective Liking**: Exploring the intersection of AI and aesthetics, I was working on this project to understand the subjective experience of beauty through machine learning. This research was published in *PLOS One*.
 
 ## 💡 **Research Publications**
 I've authored and co-authored several papers, including:
@@ -26,7 +28,6 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 
 ## 🛠 **Tech Stack**
 
-### **Programming Languages**
 ### **Programming Languages**
 
 #### General
@@ -76,8 +77,8 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 
 ### **Tools & IDEs**
 ![KDevelop](https://img.shields.io/badge/KDevelop-5E81AC?style=for-the-badge&logo=kde&logoColor=white)
-![Kate](https://img.shields.io/badge/Kate-4875B4?style=for-the-badge&logo=kate&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=code&logoColor=white)
+![Kate](https://img.shields.io/badge/Kate-4875B4?style=for-the-badge&logo=kde&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom/Pulsar-66595C?style=for-the-badge&logo=atom&logoColor=white)
 ![Zed Editor](https://img.shields.io/badge/Zed%20Editor-2088FF?style=for-the-badge&logo=zed&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
