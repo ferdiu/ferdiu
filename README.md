@@ -52,5 +52,7 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ---
 
 ## 📫 **Get in Touch**
-- Check out my portfolio at [ferdiu.github.io](https://ferdiu.github.io)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/federico-manzella-4586601a4/)
+
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferdiu.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-manzella-4586601a4/)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4944-2163)
