@@ -1,7 +1,13 @@
 # Hi there! 👋 I'm Federico Manzella (a.k.a. ferdiu)
 
+🧠 **Ferdiu AI Solutions**
+I'm planning to start my own business as a **freelancer**: [here](https://ferdiu.it) you can visit my website for more information about my services and projects.
+
+💼 **Triple Role at IN MM S.r.l.**  
+I am currently holding the triple role of **DevOps Engineer**, **Lead Developer**, and **AI Scientist** at [**IN MM S.r.l.**](https://inmm.co.uk), where I blend my expertise in development, operations, and artificial intelligence to drive innovative projects forward.
+
 🎓 **Symbolic Machine Learning Researcher**  
-Currently working at [ACLAI Lab](https://www.unife.it/) at the University of Ferrara, I specialize in **AI** and **Symbolic Learning**. My research spans **decision trees**, **temporal reasoning**, and **explainability in machine learning**.
+Currently working at [ACLAI Lab](https://www.unife.it/en) at the University of Ferrara, I specialize in **AI** and **Symbolic Learning**. My research spans **decision trees**, **temporal reasoning**, and **explainability in machine learning**.
 
 🎮 **Indie Game Developer**  
 When I’m not delving into the complexities of machine learning, I’m creating games! I enjoy building 2D games using **Godot** and crafting immersive 3D worlds with **Unity**. Check out some of my projects on [itch.io](https://ferdiu.itch.io/)!
@@ -45,9 +51,13 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ### **Tools & IDEs**
 ![KDevelop](https://img.shields.io/badge/KDevelop-5E81AC?style=for-the-badge&logo=kde&logoColor=white)
 ![Kate](https://img.shields.io/badge/Kate-4875B4?style=for-the-badge&logo=kate&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=code&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom/Pulsar-66595C?style=for-the-badge&logo=atom&logoColor=white)
+![Zed Editor](https://img.shields.io/badge/Zed%20Editor-2088FF?style=for-the-badge&logo=zed&logoColor=white)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
