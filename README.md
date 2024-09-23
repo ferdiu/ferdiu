@@ -27,13 +27,39 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ## 🛠 **Tech Stack**
 
 ### **Programming Languages**
+### **Programming Languages**
+
+#### General
+![Bash/Shell](https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Vala](https://img.shields.io/badge/Vala-3671A2?style=for-the-badge&logo=vala&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-366c99?style=for-the-badge&logo=prolog&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+#### Web
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Shading Languages
+![CG](https://img.shields.io/badge/CG-FF8800?style=for-the-badge&logo=shaderforge&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-2C2C2C?style=for-the-badge&logo=opengl&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL-FF4C4C?style=for-the-badge&logo=microsoft&logoColor=white)
+![Godot Shading Language](https://img.shields.io/badge/Godot%20Shading%20Language-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### **Game Engines**
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
