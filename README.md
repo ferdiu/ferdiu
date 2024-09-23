@@ -20,7 +20,7 @@ When I’m not delving into the complexities of machine learning, I’m creating
 
 ## 🔭 **Projects**
 
-- **Symbolic Learning in Julia**: I'm passionate about using **Julia** for symbolic AI, as seen in my contributions to projects like [`Sole.jl`](https://github.com/aclai-lab/Sole.jl) and [SimpleCaching.jl](https://github.com/ferdiu/SimpleCaching.jl).
+- **Symbolic Learning in Julia**: I'm passionate about using **Julia** for symbolic AI, as seen in my contributions to projects like [`Sole.jl`](https://github.com/aclai-lab/Sole.jl) and [`SimpleCaching.jl`](https://github.com/ferdiu/SimpleCaching.jl).
 - **AI for Health**: My research is focused on using machine learning for health-related applications, including the analysis of audio recordings (such as breath and cough sounds) to detect COVID-19. This project has led to publications in *Artificial Intelligence in Medicine*.
 - **Towards an Objective Theory of Subjective Liking**: Exploring the intersection of AI and aesthetics, I was working on this project to understand the subjective experience of beauty through machine learning. This research was published in *PLOS One*.
 
@@ -28,6 +28,7 @@ When I’m not delving into the complexities of machine learning, I’m creating
 I've authored and co-authored several papers, including:
 - **"Towards an Objective Theory of Subjective Liking"** - Exploring the sense of beauty. Published in *PLOS One*.
 - **"The Voice of COVID-19"** - Applying machine learning to health data, published in *Artificial Intelligence in Medicine*.
+
 Check out my full [publication list](https://ferdiu.github.io/#publications).
 
 ## 🛠 **Tech Stack**
@@ -35,7 +36,7 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ### **Programming Languages**
 
 #### General
-![Bash/Shell](https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -44,12 +45,14 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52B2?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Vala](https://img.shields.io/badge/Vala-3671A2?style=for-the-badge&logo=vala&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-366c99?style=for-the-badge&logo=prolog&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+<!-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) -->
 
 #### Web
 
@@ -66,6 +69,14 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ![HLSL](https://img.shields.io/badge/HLSL-FF4C4C?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Godot Shading Language](https://img.shields.io/badge/Godot%20Shading%20Language-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
+### **Machine Learning/Data Analysis**
+![MLJ](https://img.shields.io/badge/MLJ.jl-9558B2?style=for-the-badge&logo=mlj&logoColor=white)
+![Sole.jl](https://img.shields.io/badge/Sole.jl-239120?style=for-the-badge&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux.jl-3C3C3D?style=for-the-badge&logo=flux&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ### **Game Engines**
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -81,6 +92,12 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Mobile Development**
 
