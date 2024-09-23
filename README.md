@@ -15,6 +15,10 @@ When I’m not delving into the complexities of machine learning, I’m creating
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferdiu&theme=github_dark" alt="ferdiu's GitHub Stats"/>
 </div>
+<!--<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferdiu&theme=github_dark" style="width: 30%" alt="ferdiu's GitHub repos per language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferdiu&theme=github_dark" style="width: 30%" alt="ferdiu's GitHub repos per commit" />
+</div>-->
 
 ---
 
