@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Federico Manzella (a.k.a. ferdiu)
 
-🧠 **Ferdiu AI Solutions**
+🧠 **Ferdiu AI Solutions**  
 I'm planning to start my own business as a **freelancer**: [here](https://ferdiu.it) you can visit my website for more information about my services and projects.
 
 💼 **Triple Role at IN MM S.r.l.**  
