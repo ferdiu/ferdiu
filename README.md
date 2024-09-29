@@ -127,6 +127,6 @@ Check out my full [publication list](https://ferdiu.github.io/#publications).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-manzella-4586601a4/)
 
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-%23A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4944-2163)
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-%23EA4335?style=for-the-badge&logo=google-scholar&logoColor=white)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-%23A8C6E8?style=for-the-badge&logo=researchgate&logoColor=white)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-%23EA4335?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=447vVgEAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-%23A8C6E8?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Federico-Manzella)
 
