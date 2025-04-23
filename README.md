@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Federico Manzella (a.k.a. ferdiu)
 
-🧠 **Ferdiu AI Solutions**  
-I'm planning to start my own business as a **freelancer**: [here](https://ferdiu.it) you can visit my website for more information about my services and projects.
-
-💼 **Triple Role at IN MM S.r.l.**  
-I am currently holding the triple role of **DevOps Engineer**, **Lead Developer**, and **AI Scientist** at [**IN MM S.r.l.**](https://inmm.co.uk), where I blend my expertise in development, operations, and artificial intelligence to drive innovative projects forward.
+🧠 **ferdiu AI Solutions**  
+I started my own business as a **freelancer**: [here](https://ferdiu.it) you can visit my website for more information about my services and projects. The aim of this project is to close the gap between innovative scientific research and the technology used by businesses. I am pursuing this purpose with the leverage of the research we do at [ACLAI Lab](https://www.unife.it/en) with Prof. Guido Sciavicco.
 
 🎓 **Symbolic Machine Learning Researcher**  
 Currently working at [ACLAI Lab](https://www.unife.it/en) at the University of Ferrara, I specialize in **AI** and **Symbolic Learning**. My research spans **decision trees**, **temporal reasoning**, and **explainability in machine learning**.
+
+💼 **Triple Role at IN MM S.r.l.**  
+I held the triple role of **DevOps Engineer**, **Lead Developer**, and **AI Scientist** at [**IN MM S.r.l.**](https://inmm.co.uk), where I blended my expertise in development, operations, and artificial intelligence to drive innovative projects forward. I worked there until I realized that I wanted to start my own business, later creating [ferdiu AI Solutions](https://ferdiu.it).
 
 🎮 **Indie Game Developer**  
 When I’m not delving into the complexities of machine learning, I’m creating games! I enjoy building 2D games using **Godot** and crafting immersive 3D worlds with **Unity**. Check out some of my projects on [itch.io](https://ferdiu.itch.io/)!
